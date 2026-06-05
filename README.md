@@ -2,7 +2,7 @@
 
 A machine learning and data analytics project that analyzes historical Tesla stock data, identifies trends, visualizes market behavior, and predicts future stock prices using predictive modeling techniques.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](.dashboard.png)
 
 ---
 
