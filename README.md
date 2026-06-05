@@ -197,12 +197,3 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
-
-**Chandrika J**
-
-Aspiring Data Scientist passionate about Machine Learning, Data Analytics, Power BI, and AI-driven solutions.
-
-GitHub: https://github.com/chandrikaj631
-
----
